@@ -7,9 +7,9 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-*[https://github.com/IrinaVasilenko88/Java-homework-Key-Validator/issues/1] (url)
-* [https://github.com/IrinaVasilenko88/Java-homework-Key-Validator/issues/2] (url)
-* [https://github.com/IrinaVasilenko88/Java-homework-Key-Validator/issues/3](url)
+*[https://github.com/IrinaVasilenko88/Java-homework-Key-Validator/issues/1] 
+* [https://github.com/IrinaVasilenko88/Java-homework-Key-Validator/issues/2] 
+* [https://github.com/IrinaVasilenko88/Java-homework-Key-Validator/issues/3]
 
 ## Описание процесса тестирования
 
@@ -19,7 +19,7 @@
  
 
 
-В качестве тестовых данных использовались данные валидных и невалидных ключей из инструкции [https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md](url):
+В качестве тестовых данных использовались данные валидных и невалидных ключей из инструкции [https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md]:
 * Валидные ключи:
 
 8f05e6a7-70e9-33d7-bfe7-b19eae0d8998 ожидаемый результат OK
